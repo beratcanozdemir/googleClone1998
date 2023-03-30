@@ -1,0 +1,39 @@
+:root {
+    text-align: center;
+}
+#container {
+    width: 99%;
+}
+#container-1 {
+    width: 99%;
+    height: 75px;
+    background-color: #eeeeee;
+}
+#container-2 {
+    width: 99%;
+    margin-top: 2px;
+}
+#card-1 {
+    width: 33%;
+    height: 90px;
+    background-color: #7ee5da;
+    float: left;
+    margin-left: 1px;
+}
+#card-2 {
+    width: 33%;
+    height: 90px;
+    background-color: #70ccc2;
+    float: left;
+    margin-left: 2px;
+}
+#card-3 {
+    width: 33%;
+    height: 90px;
+    background-color: #62b3aa;
+    float: left;
+    margin-left: 2px;
+}
+#footer-id {
+    font-size: smaller;
+}
